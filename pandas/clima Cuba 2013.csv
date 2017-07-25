@@ -1,0 +1,70 @@
+Provincia,Estación,Lluvia total (mm),Lluvia total (días),Temperatura máxima media (ºC),Temperatura mínima media (ºC),Viento (dirección),Viento (rapidez) (km/h),Humedad relativa,Nubosidad media (octavos)
+Pinar del Río,Cabo de San Antonio,"1,812.30",122.00,29.50,22.70,E,9.00,82.00,4.00
+Pinar del Río,Isabel Rubio,"2,066.40",134.00,30.10,20.70,E,9.60,80.00,4.00
+Pinar del Río,La Palma,"1,580.10",141.00,30.50,20.90,SE,4.90,79.00,4.00
+Pinar del Río,Paso Real de San Diego,"1,575.00",120.00,30.30,20.70,ENE,4.60,84.00,4.00
+Pinar del Río,Pinar del Río,"1,716.80",128.00,30.10,20.20,E,8.70,79.00,4.00
+Pinar del Río,San Juan y Martínez,"2,002.20",130.00,30.10,21.30,N,4.10,80.00,4.00
+Pinar del Río,Santa Lucía,"1,574.10",131.00,30.10,21.00,E,6.50,78.00,4.00
+Artemisa,Bahía Honda ,"2,040.00",141.00,29.80,22.00,E,13.50,78.00,4.00
+Artemisa,Bauta,"1,743.00",130.00,30.00,20.40,N,7.40,80.00,3.00
+Artemisa,Güira de Melena,"1,434.40",134.00,30.50,20.90,NE,4.20,76.00,4.00
+La Habana,Casablanca,"2,043.60",125.00,29.40,22.40,E,12.10,77.00,4.00
+La Habana,Santiago de las Vegas,"1,833.10",131.00,30.20,20.70,NE,5.20,77.00,4.00
+Mayabeque,Bainoa,"1,299.10",144.00,29.80,18.70,ESE,8.10,81.00,4.00
+Mayabeque,Batabanó,,,,,,,,
+Mayabeque,Güines,"1,304.80",131.00,30.50,20.10,E,6.90,79.00,3.00
+Mayabeque,Melena del Sur,"1,396.70",127.00,30.60,20.40,NNE,6.10,79.00,4.00
+Mayabeque,Tapaste,"1,709.90",136.00,29.70,19.70,E,7.40,80.00,4.00
+Matanzas,Colón,"1,315.50",127.00,30.90,20.40,E,5.50,78.00,3.00
+Matanzas,Indio Hatuey,"1,443.80",123.00,30.90,18.70,E,4.70,79.00,4.00
+Matanzas,Jovellanos,"1,459.80",129.00,30.90,19.70,NE,4.90,80.00,4.00
+Matanzas,Playa Girón,784.40,94.00,30.00,21.00,N,5.90,79.00,3.00
+Matanzas,Unión de Reyes,"1,048.70",126.00,31.20,19.80,E,8.00,77.00,3.00
+Matanzas,Jagüey Grande,"1,477.00",120.00,31.30,20.10,SE,10.40,78.00,4.00
+Matanzas,Varadero,941.00,122.00,28.90,23.90,E,17.90,79.00,4.00
+Villa Clara,Caibarién,"1,699.70",160.00,28.90,21.90,E,13.30,79.00,4.00
+Villa Clara,La Piedra,"1,333.90",171.00,30.00,20.30,E,6.30,79.00,4.00
+Villa Clara,Sagua la Grande,"1,039.10",149.00,30.40,20.70,E,9.80,78.00,4.00
+Villa Clara,Santa Clara (Yabú),"1,417.10",138.00,30.10,20.20,E,6.60,84.00,4.00
+Villa Clara,Santo Domingo,"1,519.10",132.00,30.80,19.40,E,8.90,79.00,4.00
+Cienfuegos,Aguada de Pasajeros,"1,498.70",122.00,30.90,20.20,ENE,6.00,79.00,4.00
+Cienfuegos,Cienfuegos,"1,543.60",116.00,30.70,21.20,NE,9.60,78.00,3.00
+Sancti Spíritus,El Jíbaro,"1,062.70",118.00,31.40,20.60,NE,9.50,79.00,4.00
+Sancti Spíritus,Sancti Spíritus,"1,459.80",146.00,30.60,20.60,NW,2.50,80.00,4.00
+Sancti Spíritus,Topes de Collantes,"1,618.90",173.00,26.00,17.90,ENE,13.70,86.00,5.00
+Sancti Spíritus,Trinidad,950.80,121.00,31.50,22.30,NE,7.80,74.00,3.00
+Ciego de Ávila,Camilo Cienfuegos,"1,488.70",138.00,30.80,19.50,NE,13.10,80.00,3.00
+Ciego de Ávila,Cayo Coco,"1,372.90",159.00,29.30,24.00,E,15.80,75.00,4.00
+Ciego de Ávila,Ciego de Ávila,"1,033.50",106.00,31.30,20.70,NNE,10.00,77.00,4.00
+Ciego de Ávila,Júcaro,993.00,110.00,31.40,19.90,NE,8.70,79.00,3.00
+Camagüey,Camagüey,"1,279.80",139.00,30.60,21.10,E,15.40,78.00,4.00
+Camagüey,Esmeralda,"1,113.10",154.00,30.50,20.30,E,15.40,81.00,4.00
+Camagüey,Florida,"1,528.70",133.00,31.20,21.30,NE,8.50,77.00,4.00
+Camagüey,Nuevitas,868.90,135.00,30.30,23.10,E,10.00,77.00,4.00
+Camagüey,Palo Seco,"1,053.30",137.00,30.90,20.40,NE,10.10,81.00,3.00
+Camagüey,Santa Cruz,988.70,115.00,31.50,20.50,E,16.10,79.00,4.00
+Las Tunas,Las Tunas,"1,108.40",124.00,31.50,21.70,ENE,15.10,74.00,3.00
+Las Tunas,Puerto Padre,"1,095.50",122.00,30.50,21.90,E,18.90,79.00,4.00
+Holguín,Cabo Lucrecia,763.60,136.00,29.30,24.20,E,26.90,79.00,4.00
+Holguín,Güaro,"1,070.60",99.00,31.10,21.30,NNE,13.80,76.00,3.00
+Holguín,La Jíquima,"1,110.50",122.00,31.40,21.00,ENE,15.40,80.00,4.00
+Holguín,Pedagógico Holguín,"1,004.50",114.00,31.30,21.80,E,14.40,76.00,3.00
+Holguín,Pinares de Mayarí,"1,851.60",169.00,27.50,16.00,NE,10.10,82.00,4.00
+Holguín,Velasco,"1,325.60",119.00,31.50,21.90,E,14.40,79.00,3.00
+Granma,Cabo Cruz,740.40,121.00,31.00,22.80,ESE,18.80,76.00,4.00
+Granma,Jucarito,"1,228.10",126.00,32.80,20.70,E,12.30,75.00,3.00
+Granma,Manzanillo,989.50,86.00,32.30,21.10,E,8.80,77.00,3.00
+Granma,Veguitas,"1,278.20",127.00,33.40,20.50,E,9.70,75.00,4.00
+Granma,Media Provincial,"1,059.10",115.00,32.40,21.30,..,..,76.00,4.00
+Santiago ,Contramaestre,902.90,117.00,31.90,20.40,NE,9.70,75.00,3.00
+Santiago ,Gran Piedra,"1,618.90",159.00,23.60,17.00,NE,18.50,88.00,4.00
+Santiago ,Santiago de Cuba,998.40,121.00,32.60,23.80,NE,10.60,70.00,4.00
+Guantánamo,Guantánamo,851.10,104.00,32.90,20.60,NNE,7.10,73.00,3.00
+Guantánamo,Jamal,"1,306.00",203.00,30.00,22.20,NE,13.90,82.00,4.00
+Guantánamo,Punta Maisí,297.40,108.00,30.80,25.00,ENE,19.40,74.00,4.00
+Guantánamo,Palenque de Yateras,"1,308.70",158.00,28.80,18.30,E,10.80,83.00,4.00
+Guantánamo,Valle de Caujerí,660.50,79.00,31.10,19.80,W,4.70,76.00,4.00
+Isla de la Juventud,Amistad Cuba - Francia,"1,492.80",114.00,29.90,21.60,E,11.10,81.00,4.00
+Isla de la Juventud,Punta del Este,"1,195.80",128.00,29.50,23.50,E,10.80,78.00,4.00
+Isla de la Juventud,La Fé,"1,629.20",125.00,21.90,25.30,E,12.90,80.00,4.00
